@@ -12,3 +12,13 @@
 /home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.RazorTargetAssemblyInfo.cache
 /home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.dll
 /home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.pdb
+/home/david/Desktop/tutoriales/dotnet/test001/bin/Debug/netcoreapp2.1/test001.Views.dll
+/home/david/Desktop/tutoriales/dotnet/test001/bin/Debug/netcoreapp2.1/test001.Views.pdb
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.TagHelpers.input.cache
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.TagHelpers.output.cache
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.RazorCoreGenerate.cache
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/Razor/pages/index.g.cshtml.cs
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.RazorTargetAssemblyInfo.cs
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.Views.pdb
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.csproj.CopyComplete
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/Razor/pages/test.g.cshtml.cs
