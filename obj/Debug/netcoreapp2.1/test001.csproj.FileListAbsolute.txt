@@ -1,0 +1,14 @@
+/home/david/Desktop/tutoriales/dotnet/test001/bin/Debug/netcoreapp2.1/test001.deps.json
+/home/david/Desktop/tutoriales/dotnet/test001/bin/Debug/netcoreapp2.1/test001.runtimeconfig.json
+/home/david/Desktop/tutoriales/dotnet/test001/bin/Debug/netcoreapp2.1/test001.runtimeconfig.dev.json
+/home/david/Desktop/tutoriales/dotnet/test001/bin/Debug/netcoreapp2.1/test001.dll
+/home/david/Desktop/tutoriales/dotnet/test001/bin/Debug/netcoreapp2.1/test001.pdb
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.csprojAssemblyReference.cache
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.csproj.CoreCompileInputs.cache
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.RazorAssemblyInfo.cache
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.RazorAssemblyInfo.cs
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.AssemblyInfoInputs.cache
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.AssemblyInfo.cs
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.RazorTargetAssemblyInfo.cache
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.dll
+/home/david/Desktop/tutoriales/dotnet/test001/obj/Debug/netcoreapp2.1/test001.pdb
